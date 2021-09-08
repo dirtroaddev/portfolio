@@ -24,7 +24,7 @@
  */
 /*----------- Bootstrap Template -----------*/
 :root {
-  --custom: #dc3545;
+  --custom: #6699CC;
 }
 
 .table-custom,
@@ -43,14 +43,14 @@
 }
 
 .btn-custom {
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: #6699CC;
+  border-color: #6699CC;
   color: #fff;
 }
 
 .btn-custom:hover {
-  background-color: #c82333;
-  border-color: #bd2130;
+  background-color: #6699CC;
+  border-color: #6699CC;
   color: #fff;
 }
 
@@ -61,16 +61,16 @@
 
 .btn-custom.disabled,
 .btn-custom:disabled {
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: #6699CC;
+  border-color: #6699CC;
   color: #fff;
 }
 
 .btn-custom:not(:disabled):not(.disabled):active,
 .btn-custom:not(:disabled):not(.disabled).active,
 .show>.btn-custom.dropdown-toggle {
-  background-color: #bd2130;
-  border-color: #b21f2d;
+  background-color: #6699CC;
+  border-color: #6699CC;
   color: #fff;
 }
 
@@ -81,13 +81,13 @@
 }
 
 .btn-outline-custom {
-  border-color: #dc3545;
-  color: #dc3545;
+  border-color: #6699CC;
+  color: #6699CC;
 }
 
 .btn-outline-custom:hover {
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: #6699CC;
+  border-color: #6699CC;
   color: #fff;
 }
 
@@ -99,14 +99,14 @@
 .btn-outline-custom.disabled,
 .btn-outline-custom:disabled {
   background-color: transparent;
-  color: #dc3545;
+  color: #6699CC;
 }
 
 .btn-outline-custom:not(:disabled):not(.disabled):active,
 .btn-outline-custom:not(:disabled):not(.disabled).active,
 .show>.btn-outline-custom.dropdown-toggle {
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: #6699CC;
+  border-color: #6699CC;
   color: #fff;
 }
 
@@ -117,13 +117,13 @@
 }
 
 .badge-custom {
-  background-color: #dc3545;
+  background-color: #6699CC;
   color: #fff;
 }
 
 a.badge-custom:hover,
 a.badge-custom:focus {
-  background-color: #bd2130;
+  background-color: #6699CC;
   color: #fff;
 }
 
@@ -165,7 +165,7 @@ a.badge-custom.focus {
 }
 
 .bg-custom {
-  background-color: #dc3545 !important;
+  background-color: #6699CC !important;
 }
 
 a.bg-custom:hover,
@@ -176,11 +176,11 @@ button.bg-custom:focus {
 }
 
 .border-custom {
-  border-color: #dc3545 !important;
+  border-color: #6699CC !important;
 }
 
 .text-custom {
-  color: #dc3545 !important;
+  color: #6699CC !important;
 }
 
 a.text-custom:hover,
@@ -190,106 +190,106 @@ a.text-custom:focus {
 
 /*----------- Globals -----------*/
 ::-moz-selection {
-  background-color: #dc3545;
+  background-color: #6699CC;
   color: #fff;
 }
 
 ::selection {
-  background-color: #dc3545;
+  background-color: #6699CC;
   color: #fff;
 }
 
 a:not(.btn) {
-  color: #dc3545;
+  color: #6699CC;
 }
 
 a:not(.btn):hover,
 a:not(.btn):focus {
-  color: #a71d2a;
+  color: #6699CC;
 }
 
 .color-scheme {
-  color: #dc3545;
+  color: #6699CC;
 }
 
 .background-scheme {
-  background-color: #dc3545;
+  background-color: #6699CC;
 }
 
 .btn.button-scheme {
-  background-color: #dc3545 !important;
-  border: 1px solid #dc3545 !important;
+  background-color: #6699CC !important;
+  border: 1px solid #6699CC !important;
 }
 
 .btn.button-scheme:focus {
-  background-color: #a71d2a !important;
-  border-color: #a71d2a !important;
+  background-color: #6699CC !important;
+  border-color: #6699CC !important;
   box-shadow: none !important;
 }
 
 .btn.button-outline {
   background-color: transparent !important;
-  border: 1px solid #dc3545 !important;
+  border: 1px solid #6699CC !important;
   color: #222 !important;
 }
 
 .btn.button-outline:focus {
   background-color: rgba(34, 34, 34, 0.05) !important;
-  border-color: #a71d2a !important;
+  border-color: #6699CC !important;
   box-shadow: none !important;
 }
 
 /*----------- Sidebar -----------*/
 .sidebar .sidebar-menu .list-menu .nav-link.active {
-  color: #dc3545;
+  color: #6699CC;
 }
 
 /*----------- Home -----------*/
 .home-area .home-name span {
-  color: #dc3545;
+  color: #6699CC;
 }
 
 /*----------- About -----------*/
 .about-area .about-content .content-subtitle {
-  color: #dc3545;
+  color: #6699CC;
 }
 
 /*----------- Services -----------*/
 .services-area .single-service .service-icon {
-  color: #dc3545;
+  color: #6699CC;
 }
 
 /*----------- Portfolio -----------*/
 .portfolio-area .filter-control>li:hover,
 .portfolio-area .filter-control>li.tab-active {
-  color: #e14f5d;
+  color: #6699CC;
 }
 
 .portfolio-area .filter-control>li:hover:before,
 .portfolio-area .filter-control>li.tab-active:before {
-  background-color: #e14f5d;
+  background-color: #6699CC;
 }
 
 .portfolio-area .portfolio-grid .portfolio-wrapper .item-content .content-more {
-  color: #dc3545;
+  color: #6699CC;
 }
 
 /*----------- Testimonials -----------*/
 .testimonials-area .single-review .review-icon {
-  color: #dc3545;
+  color: #6699CC;
 }
 
 /*----------- Blog -----------*/
 .blog-area .single-post .post-img .content-date {
-  background-color: #dc3545;
+  background-color: #6699CC;
 }
 
 /*----------- Contact -----------*/
 .contact-area .contact-form .form-group .form-control:focus {
-  border-bottom: 1px solid #e4606d;
+  border-bottom: 1px solid #6699CC;
 }
 
 /*----------- Footer -----------*/
 .footer-area .contact-info .info-icon {
-  color: #dc3545;
+  color: #6699CC;
 }
