@@ -40,10 +40,10 @@
 				e.preventDefault();
 				var _self = $(this);
 				var __selector = _self.closest('input,textarea');
-				_self.closest('div').find('input,textarea').removeAttr('style');
-				_self.find('.error-msg').remove();
-				_self.closest('div').find('button[type="submit"]').attr('disabled', 'disabled');
-				var data = $(this).serialize();
+				// _self.closest('div').find('input,textarea').removeAttr('style');
+				// _self.find('.error-msg').remove();
+				// _self.closest('div').find('button[type="submit"]').attr('disabled', 'disabled');
+				// var data = $(this).serialize();
 				// $.ajax({
 				// 	url: 'mail.php',
 				// 	type: "post",
