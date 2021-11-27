@@ -411,9 +411,9 @@
 
 
 
-$(document).ready(function() {
-    $('#contact-form').submit(function() {
-        $("#contact-form").remove();
-        $("#sent-message").css("display", "block");
-    })
-  });
+// $(document).ready(function() {
+//     $('#contact-form').submit(function() {
+//         $("#contact-form").remove();
+//         $("#sent-message").css("display", "block");
+//     })
+//   });
