@@ -24,7 +24,7 @@
             imJs.smothScroll_Two();
             imJs.stickyAdjust();
             imJs.testimonialActivation();
-            imJs.contactForm();
+            // imJs.contactForm();
             imJs.wowActive();
             imJs.awsActivation();
             // imJs.demoActive();
@@ -35,7 +35,7 @@
         
         
 
-        contactForm: function () {
+        // contactForm: function () {
             // $('.rwt-dynamic-form').on('submit', function (e) {
 				// e.preventDefault();
 				// var _self = $(this);
@@ -68,7 +68,7 @@
 				// });
 			// });
 
-        },
+        // },
 
         
         
@@ -410,10 +410,3 @@
 
 
 
-
-// $(document).ready(function() {
-//     $('#contact-form').submit(function() {
-//         $("#contact-form").remove();
-//         $("#sent-message").css("display", "block");
-//     })
-//   });
